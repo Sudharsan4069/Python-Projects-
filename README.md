@@ -24,10 +24,10 @@ My journey and projects through Python
 ## 📌 About Me
 
 **Sudharsan B**  
-Final year CSE | Cloud ☁️ | Python 🐍  
+Final year CSE | Cloud | Python 
 From Tamil Nadu 📍
 
-> “Code with simplicity. Deploy with swagger.” – BRAT Philosophy ✨
+> “Code with simplicity. Deploy with swagger.”
 
 ---
 
