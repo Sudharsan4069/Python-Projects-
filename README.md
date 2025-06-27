@@ -1,17 +1,6 @@
 # Python-Projects-
 My journey and projects through Python 
 
----
-
-## 📅 Progress
-
-| Day | Project                      | Status |
-|-----|------------------------------|--------|
-| 01  | Band Name Generator 🎸       | ✅ Done |
-| 02  | Tip Calculator 💸            | 🔜 Coming Soon |
-| 03  | Treasure Island Adventure 🗺️ | 🔜 Coming Soon |
-
----
 ## 📅 Project Index
 
 | Day | Project                  | Link                                      |
