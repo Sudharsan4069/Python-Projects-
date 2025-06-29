@@ -3,11 +3,11 @@ My journey and projects through Python
 
 ## 📅 Project Index
 
-| Day | Project                  | Link                                      |
-|-----|--------------------------|-------------------------------------------|
-| 01  | Band Name Generator 🎸   | [View Code](./Day01_Band_Name_Generator)  |
-| 02  | Tip Calculator 💸        | [View Code](./Day02_Tip_Calculator)       |
-| 03  | Treasure Island 🏝️      | [View Code](./Day03_Treasure_Island)      |
+| Day | Project                  | Link                       |
+|-----|---------------------------|---------------------------|
+| 01  |  PROJECT 1                | [View Code](./PROJECT_1)  |
+| 02  |  PROJECT 2                | [View Code](./PROJECT_2)  |
+| 03  |  PROJECT 3                | [View Code](./PROJECT_3)  |
 
 ## 🧰 Tech Stack
 
