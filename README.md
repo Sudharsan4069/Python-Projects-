@@ -5,9 +5,7 @@ My journey and projects through Python
 
 | Day | Project                  | Link                       |
 |-----|---------------------------|---------------------------|
-| 01  |  PROJECT 1                | [View Code](./main.py)
-                                  | [View Code](./coffee_maker.py)
-|     |                           |                           |
+| 01  |  PROJECT 1                | [View Code](./main.py)    |
 | 02  |  PROJECT 2                | [View Code](./PROJECT_2)  |
 | 03  |  PROJECT 3                | [View Code](./PROJECT_3)  |
 
